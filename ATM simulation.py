@@ -18,6 +18,7 @@ elif entry!=password:
 
         if rentry==password:
             print("you are in")
+            break
 
 
     else:
